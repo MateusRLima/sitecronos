@@ -2,7 +2,6 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import ContactView from '@/views/ContactView'
-import AboutView from '@/views/AboutView'
 import SupportView from '@/views/SupportView'
 import QuestionView from '@/views/QuestionView'
 
@@ -13,11 +12,6 @@ const routes = [
     path: '/',
     name: 'Home',
     component: HomeView
-  },
-  {
-    path: '/sobre',
-    name: 'About',
-    component: AboutView
   },
   {
     path: '/contato',

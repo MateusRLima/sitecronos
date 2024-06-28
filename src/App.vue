@@ -1,15 +1,17 @@
 <template>
   <v-app>
     <NavHeader />
-    <v-main>
+    <v-main class="mb-10">
       <router-view />
     </v-main>
+    <FooterContact />
   </v-app>
 </template>
 
 <script>
 
 import NavHeader from "@/components/NavHeader.vue"
+import FooterContact from "./components/FooterContact.vue";
 
 export default {
 
@@ -19,6 +21,7 @@ export default {
 
   components: {
     NavHeader,
+    FooterContact
   }
 }
 

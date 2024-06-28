@@ -4,7 +4,7 @@
       <v-divider inset class="mb-10"></v-divider>
     </v-row>
     <v-row>
-      <v-carousel cycle :show-arrows="false">
+      <v-carousel :show-arrows="false">
         <v-carousel-item>
           <v-img src="@/assets/Banner.png"></v-img>
         </v-carousel-item>
