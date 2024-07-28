@@ -1,7 +1,7 @@
 <template>
   <v-app>
-    <NavHeader />
     <v-main class="mb-10">
+      <NavHeader />
       <router-view />
     </v-main>
     <FooterContact />
@@ -36,21 +36,25 @@ export default {
   color: #2c3e50;
 }
 
-.v-carousel__controls {
-  align-items: center;
-  background: transparent !important;
-  bottom: 0;
-  display: flex;
-  height: 50px;
-  justify-content: center;
-  list-style-type: none;
-  position: absolute;
-  width: 100%;
-  z-index: 1;
+.v-tab {
+  text-transform: none !important;
+}
 
-  .theme--dark.v-btn.v-btn--icon {
-    color: #ADC1C7;
-  }
+.v-btn {
+  text-transform: none !important;
+  border-radius: 12px !important;
+  color: #4E4E4E !important;
+  font-weight: 700;
+}
+
+.v-application--is-ltr .v-window__prev,
+.v-window__next {
+  background: transparent !important;
+  border-radius: 50%;
+  position: absolute;
+  margin: 0px 0px;
+  top: calc(50% - 20px);
+  z-index: 1;
 }
 
 .v-tabs-slider-wrapper {

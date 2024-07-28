@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "title": "Como posso solicitar uma cotação?",
+      "description": "Para solicitar uma cotação, você deve preencher o formulário de solicitação disponível no nosso site e fornecer todos os detalhes necessários.",
+      "category": "Cotações"
+    },
+    {
+      "title": "O que está incluído na cotação?",
+      "description": "A cotação inclui todos os custos relacionados ao serviço ou produto solicitado, bem como termos e condições aplicáveis.",
+      "category": "Cotações"
+    },
+    {
+      "title": "Como verificar o status da minha cotação?",
+      "description": "Você pode verificar o status da sua cotação acessando sua conta no nosso portal e navegando até a seção de cotações.",
+      "category": "Status de cotação"
+    },
+    {
+      "title": "O que fazer se minha cotação estiver atrasada?",
+      "description": "Se sua cotação estiver atrasada, entre em contato com nosso suporte ao cliente para obter uma atualização sobre o status.",
+      "category": "Status de cotação"
+    },
+    {
+      "title": "Como encontrar o código de um produto específico?",
+      "description": "Para encontrar o código de um produto, consulte o catálogo de produtos em nosso site ou entre em contato com nosso atendimento ao cliente.",
+      "category": "Código de um produto"
+    },
+    {
+      "title": "O que fazer se eu não encontrar o código do produto?",
+      "description": "Se você não encontrar o código do produto, por favor, entre em contato com o suporte para assistência adicional.",
+      "category": "Código de um produto"
+    },
+    {
+      "title": "Como publicar uma cotação?",
+      "description": "Para publicar uma cotação, você deve preencher e enviar o formulário de publicação disponível na área de administração do nosso site.",
+      "category": "Publicação da cotação"
+    },
+    {
+      "title": "Quais são os requisitos para publicar uma cotação?",
+      "description": "Os requisitos incluem ter uma conta ativa, fornecer informações completas e precisas e cumprir as diretrizes de publicação.",
+      "category": "Publicação da cotação"
+    },
+    {
+      "title": "Quais formas de pagamento são aceitas?",
+      "description": "Aceitamos diversas formas de pagamento, incluindo cartões de crédito, transferências bancárias e pagamentos via PayPal.",
+      "category": "Formas de pagamento"
+    },
+    {
+      "title": "Como alterar a forma de pagamento?",
+      "description": "Para alterar a forma de pagamento, você deve acessar as configurações da sua conta e atualizar as informações de pagamento.",
+      "category": "Formas de pagamento"
+    },
+    {
+      "title": "O aplicativo está disponível para todas as plataformas?",
+      "description": "Sim, nosso aplicativo está disponível para iOS e Android. Você pode baixá-lo na App Store ou Google Play.",
+      "category": "Aplicativo mobile"
+    },
+    {
+      "title": "Como fazer login no aplicativo mobile?",
+      "description": "Para fazer login, abra o aplicativo e insira suas credenciais de usuário. Se você esquecer sua senha, use a opção de recuperação de senha.",
+      "category": "Aplicativo mobile"
+    }
+  ]
+}
